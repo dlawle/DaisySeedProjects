@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cc": "cpp",
+        "any": "cpp",
+        "bitset": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "optional": "cpp"
+    }
+}
